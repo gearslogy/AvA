@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/Maps/L0.umap",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/Maps/L_SpaceShipMain.umap",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/Assets/Ship.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/Assets/Sphere_7FD82F41.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/Assets/Bullet.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/Assets/Cone_BA0F84CD.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/Assets/Enemy.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/BPs/BP_Spaceship.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/BPs/PlayerShipGM.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/Assets/Materials/M_Ship.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/Assets/Materials/M_Base.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/BPs/IMC_Movement.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/BPs/IA_FireProjecttile.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/BPs/BP_Enemy.uasset",
+				"C:/Program Files/Epic Games/UE_5.7/Engine/Content/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/BPs/BP_ShipProjectile.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/BPs/BP_EnemyProjectile.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/BPs/IA_AD.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/BPs/IA_WS.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/Assets/mud_road_puresky_2k.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/Assets/Materials/Sky.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/Assets/Materials/Sky_Inst.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/Assets/Materials/MI_EnemyProjectTile.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/Assets/EnemyBullet.uasset",
+				"C:/Program Files/Epic Games/UE_5.7/Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/BPs/IA_WASD.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/BPs/BP_Projectile.uasset",
+				"C:/Users/liuya/Documents/Unreal Projects/DearBaby/Content/MapSpaceShip/BPs/PlayerShipGGM.uasset"
+			]
+		}
+	]
+}
